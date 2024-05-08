@@ -25,6 +25,7 @@ import com.wacom.ink.model.Identifier
 import com.wacom.ink.model.InkStroke
 import com.wacom.ink.model.StrokeAttributes
 import com.wacom.will3.ink.vector.rendering.demo.*
+import com.wacom.will3.ink.vector.rendering.demo.R
 import com.wacom.will3.ink.vector.rendering.demo.manipulation.SelectionBox
 import com.wacom.will3.ink.vector.rendering.demo.manipulation.HistoryManager
 import com.wacom.will3.ink.vector.rendering.demo.serialization.InkEnvironmentModel
